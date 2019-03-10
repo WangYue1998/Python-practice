@@ -1,0 +1,15 @@
+# small data file to use in testing
+De Aza, Alejandro; CWS; 153; 607; 84; 160; 17
+Hunter, Torii; DET; 144; 606; 90; 184; 17
+Hamilton, Josh; LAA; 151; 576; 73; 144; 21
+# the next line is missing the team ID
+Choo, Shin-Soo; 154; 569; 107; 162; 21
+Upton, Justin; ATL; 149; 558; 94; 147; 27
+Cabrera, Miguel; DET; 148; 555; 103; 193; 44
+# the next line has a semi-colon in the player name
+Holliday; Matt; STL; 141; 520; 103; 156; 22
+Young Jr., Eric; COL; 57; 165; 22; 40; 1
+Hairston, Scott; CHC; 52; 99; 13; 17; 8
+d'Arnaud, Travis; NYM; 31; 99; 4; 20; 1
+den Dekker, Matt; NYM; 27; 58; 7; 12; 1
+Sanchez, Angel; CWS; 1; 2; 0; 0; 0
