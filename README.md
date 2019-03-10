@@ -1,2 +1,3 @@
 # Python-practice   
-Did python practice in 12 weeks.
+  
+I did python practices in 12 weeks.
