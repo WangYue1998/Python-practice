@@ -1,0 +1,5 @@
+Alice, 10, 6
+Jim, 8
+Hal, 12, 4
+Pam, 12
+Pam, 11
